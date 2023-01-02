@@ -11,7 +11,5 @@ public class CSC325_Demo01 {
         System.out.println("Moaath Alrajab \n\n\n");
 
         System.out.println("Moaath Alrajab \n\n\n");
-        System.out.println("Moaath Alrajab \n\n\n");
-        System.out.println("Moaath Alrajab \n\n\n");
     }
 }
